@@ -1,0 +1,14 @@
+FOR MANJARO
+-----------
+
+On manjaro the files are at location:-
+/home/ketan/.var/app/org.zdoom.GZDoom/.config/gzdoom/
+
+Steps:-
+1> Copy files from /home/ketan/MEGAsync/JeetendraMega/games/doom/working_folder/ to /home/ketan/.var/app/org.zdoom.GZDoom/.config/gzdoom/
+2> /usr/bin/flatpak run --branch=stable --arch=x86_64 --command=gzdoom.sh org.zdoom.GZDoom -config /home/ketan/.var/app/org.zdoom.GZDoom/.config/gzdoom/gzdoom.ini -file anta_req.zip
+    OR
+flatpak run org.zdoom.GZDoom
+    OR
+flatpak run org.zdoom.GZDoom -config /home/ketan/.var/app/org.zdoom.GZDoom/.config/gzdoom/gzdoom.ini -file anta_req.zip
+3> After running again copy files from Copy files from /home/ketan/.var/app/org.zdoom.GZDoom/.config/gzdoom/ to /home/ketan/MEGAsync/JeetendraMega/games/doom/working_folder/
