@@ -1,2 +1,2 @@
-freedoom1.wad
-freedoom2.wad
+freedoom1.wad	: ESSENTIAL
+freedoom2.wad	: ESSENTIAL
