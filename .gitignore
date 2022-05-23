@@ -1,4 +1,5 @@
-iwads/
+iwads/*
+!iwads/List.txt
 pwads/3d_models/
 pwads/huds/
 pwads/Textures/
