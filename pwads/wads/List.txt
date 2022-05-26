@@ -1,2 +1,2 @@
-anta_req.zip		: OK
+anta_req.zip		: OK	: PLAYED  ON 2022-05-24
 iu-part5-zd109c.zip	: GOOD

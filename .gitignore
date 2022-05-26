@@ -11,3 +11,7 @@ pwads/weapons/*
 pwads/wads/*
 !pwads/wads/List.txt
 working_folder/saves/
+pwads/monsters/*
+!pwads/monsters/List.txt
+pwads/Untested/*
+!pwads/Untested/List.txt
