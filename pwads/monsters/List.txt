@@ -1,2 +1,2 @@
 d64-gfx.zip		: GOOD
-ColourfulHell98c.pk3	: BAD
+DoomHDv03.zip		: GOOD, Glitchy
