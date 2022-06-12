@@ -1,10 +1,9 @@
-Folder PATH listing
-Volume serial number is 82B7-9C01
-C:.
-|   dsda-doom.cfg
-|   files.txt
+Folder PATH listing for volume New Volume
+Volume serial number is 8A67-4523
+P:.
+|   .gitignore
+|   FilesList.txt
 |   GetFilesList.bat
-|   gzdoom_ofc_kdizd_12_On_GZ4.6.1.ini
 |   
 +---iwads
 |       freedoom1.wad
@@ -40,7 +39,7 @@ C:.
 |   +---monsters
 |   |   |   List.txt
 |   |   |   
-|   |   +---BAD
+|   |   +---bad
 |   |   |       ColourfulHell98c.pk3
 |   |   |       RainbowMonstersV1.2.pk3
 |   |   |       
@@ -59,7 +58,7 @@ C:.
 |   +---Textures
 |   |   |   List.txt
 |   |   |   
-|   |   +---BAD
+|   |   +---bad
 |   |   |       DGDBTXTR.WAD
 |   |   |       dgdbtxtr.zip
 |   |   |       Duke_SiN_mod.zip
@@ -76,7 +75,7 @@ C:.
 |   |   |       
 |   |   \---UGLY
 |   +---Unsorted
-|   |   +---BAD
+|   |   +---bad
 |   |   |       hideousdestructor-v4.7.1c.zip
 |   |   |       
 |   |   +---GOOD
@@ -97,7 +96,7 @@ C:.
 |   +---wads
 |   |   |   List.txt
 |   |   |   
-|   |   +---BAD
+|   |   +---Bad
 |   |   |       fddm0121_v1.1.zip
 |   |   |       
 |   |   +---GOOD
@@ -119,12 +118,15 @@ C:.
 |       |       wrw.zip
 |       |       
 |       \---UGLY
++---SourcePortConfigFiles
+|       dsda-doom.cfg
+|       gzdoom_ofc_kdizd_12_On_GZ4.6.1.ini
+|       
 +---source_ports
 |       NOTE.txt
 |       
 \---working_folder
     |   gzdoom.ini
-    |   gzdoom.ini.bak
     |   gzdoom_Backup01.ini
     |   gzdoom_Backup02.ini
     |   gzdoom_Backup03.ini
