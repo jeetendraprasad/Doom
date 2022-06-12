@@ -1,0 +1,162 @@
+Folder PATH listing
+Volume serial number is 82B7-9C01
+C:.
+|   dsda-doom.cfg
+|   files.txt
+|   GetFilesList.bat
+|   gzdoom_ofc_kdizd_12_On_GZ4.6.1.ini
+|   
++---iwads
+|       freedoom1.wad
+|       freedoom2.wad
+|       List.txt
+|       
++---Links
+|       LiNks.txt
+|       
++---pwads
+|   +---3d_models
+|   |   |   List.txt
+|   |   |   
+|   |   +---BAD
+|   |   +---GOOD
+|   |   |       3D_Models.pk3
+|   |   |       
+|   |   \---UGLY
+|   +---Extras
+|   |   |   List.txt
+|   |   |   
+|   |   +---BAD
+|   |   +---GOOD
+|   |   \---UGLY
+|   +---huds
+|   |   |   List.txt
+|   |   |   
+|   |   +---BAD
+|   |   +---GOOD
+|   |   |       JP_HUD_mod_friendly.pk3
+|   |   |       
+|   |   \---UGLY
+|   +---monsters
+|   |   |   List.txt
+|   |   |   
+|   |   +---BAD
+|   |   |       ColourfulHell98c.pk3
+|   |   |       RainbowMonstersV1.2.pk3
+|   |   |       
+|   |   +---GOOD
+|   |   |       d64-gfx.zip
+|   |   |       DoomHDv03.pk3
+|   |   |       
+|   |   +---NotWorking
+|   |   |       doom+-+hd+monsters.pk3
+|   |   |       monsters.pk3
+|   |   |       
+|   |   +---OK
+|   |   |       D64MonRepV08.pk3
+|   |   |       
+|   |   \---UGLY
+|   +---Textures
+|   |   |   List.txt
+|   |   |   
+|   |   +---BAD
+|   |   |       DGDBTXTR.WAD
+|   |   |       dgdbtxtr.zip
+|   |   |       Duke_SiN_mod.zip
+|   |   |       
+|   |   +---GOOD
+|   |   |       DLTP GZDoom Port.pk3
+|   |   |       
+|   |   +---NotWorking
+|   |   |       rtp.wad
+|   |   |       
+|   |   +---OK
+|   |   |       debrownify.wad
+|   |   |       Doom3Textures_v4.zip
+|   |   |       
+|   |   \---UGLY
+|   +---Unsorted
+|   |   +---BAD
+|   |   |       hideousdestructor-v4.7.1c.zip
+|   |   |       
+|   |   +---GOOD
+|   |   \---UGLY
+|   +---Untested
+|   |   |   Eviternity.zip
+|   |   |   freedoom-ultimate-v0.8.zip
+|   |   |   InexpensiveDoom.zip
+|   |   |   List.txt
+|   |   |   
+|   |   \---looks_interesting_will_try_later
+|   |       |   BrutalFreedoomGZDvDelta.zip
+|   |       |   
+|   |       \---megawads
+|   |           \---BAD
+|   |                   FreeDmCraft.zip
+|   |                   
+|   +---wads
+|   |   |   List.txt
+|   |   |   
+|   |   +---BAD
+|   |   |       fddm0121_v1.1.zip
+|   |   |       
+|   |   +---GOOD
+|   |   |       iu-part5-zd109c.zip
+|   |   |       sythe2.wad
+|   |   |       THuktimatefreeedoom.zip
+|   |   |       valve.zip
+|   |   |       
+|   |   +---OK
+|   |   |       anta_req.zip
+|   |   |       
+|   |   \---UGLY
+|   \---weapons
+|       |   List.txt
+|       |   
+|       +---BAD
+|       +---GOOD
+|       |       SuperGun.zip
+|       |       wrw.zip
+|       |       
+|       \---UGLY
++---source_ports
+|       NOTE.txt
+|       
+\---working_folder
+    |   gzdoom.ini
+    |   gzdoom.ini.bak
+    |   gzdoom_Backup01.ini
+    |   gzdoom_Backup02.ini
+    |   gzdoom_Backup03.ini
+    |   gzdoom_Backup04.ini
+    |   gzdoom_Dafault.ini
+    |   lzdoom.ini
+    |   NOTE.txt
+    |   RunGZDoom.bat
+    |   RunLZDoom.bat
+    |   run_gzdoom.sh
+    |   run_gzdoom_on_lubuntu.sh
+    |   run_gzdoom_on_manjaro.sh
+    |   run_lzdoom.sh
+    |   
+    \---saves
+            auto0.zds
+            auto1.zds
+            auto2.zds
+            auto3.zds
+            save0.zds
+            save1.zds
+            save10.zds
+            save11.zds
+            save12.zds
+            save13.zds
+            save14.zds
+            save2.zds
+            save3.zds
+            save4.zds
+            save5.zds
+            save6.zds
+            save7.zds
+            save8.zds
+            save9.zds
+            
