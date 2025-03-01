@@ -1,0 +1,1 @@
+dsda-doom.exe -iwad "..\..\iwads\freedoom1.wad" -file "..\..\pwads\IMP\SD21.zip"
